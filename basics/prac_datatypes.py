@@ -1,4 +1,5 @@
 #Numeric - int, float, complex
+#Bool
 a = 1
 print(a)
 print(type(a))
@@ -33,3 +34,7 @@ print(f.imag)
 print(f.real)
 
 
+g = True
+h = False
+print(g, h)
+print(type(g), type(h))
