@@ -157,20 +157,20 @@ print(hh)
 print(he)
 
 
-li = [1, 2, 3]
-li2 = [1, 2, 3]
-li.append(10)
-print(id(li))
-print(id(li2))
-print(li)
-
-
-
-s = "lkfdlk"
-print(dir(s))
-print(help(str))
-i = 2
-print(dir(i))
+# li = [1, 2, 3]
+# li2 = [1, 2, 3]
+# li.append(10)
+# print(id(li))
+# print(id(li2))
+# print(li)
+#
+#
+#
+# s = "lkfdlk"
+# print(dir(s))
+# print(help(str))
+# i = 2
+# print(dir(i))
 
 
 
