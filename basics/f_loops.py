@@ -1,3 +1,5 @@
+from time import perf_counter
+
 li = [2, 6, 3, 9, 15, 7, 4, 16]
 
 #for <DY_VAR> in <Iterable>:
@@ -14,6 +16,17 @@ for j in li:
 
 #while <Condition>:
 #   operation
+
+while li:
+    ll = li.pop(0)
+    print(ll)
+    print("yes")
+print("###########################################################")
+vrr = 0
+while vrr < 10:
+    print(vrr)
+    vrr += 1
+    print("after adding" , vrr)
 
 
 # if <CONDITION>>:
