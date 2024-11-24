@@ -45,6 +45,7 @@ for i in ll:
 
 r = range(100)
 for j in r:
+    #negativre logic
     if j % 2 != 1:
         print(j)
 
@@ -59,7 +60,7 @@ if cc % 2 == 0 :
 else:
     print("No")
 
-ln = len([1, 2, 3, 4, 5, 6, 7, "nirhin"])
+ln = len([1, 2, 3, 4, 5, 6, 7, "nithin"])
 print(ln)
 lns = "nithin kumar reddy"
 
