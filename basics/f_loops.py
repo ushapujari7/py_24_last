@@ -35,7 +35,7 @@ while vrr < 10:
 #     Operation
 
 if 2+2 == 5:
-    print("Hi")
+    print("Hi ")
 elif 3+3 == 6:
     print("hello")
 elif 4+4 == 9:
@@ -61,7 +61,7 @@ for k in ll:
     elif k == 4:
         print('its four')
     elif k == 5:
-        print('its five')
+        print('its five ')
     else:
         print('it is not two, three, four or five')
 
