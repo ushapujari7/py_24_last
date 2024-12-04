@@ -97,3 +97,6 @@ def printing(ll):
         print(j - 20)
 
 printing(ss)
+
+
+#count of occ of each substring in a string or list by using dict
