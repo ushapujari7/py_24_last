@@ -1,0 +1,61 @@
+Line 1: Python supports working with multiple file formats.
+Line 2: You can use loops to process files line by line.
+Line 3: Binary files store data in non-human-readable formats.
+Line 4: Text files are ideal for logs and simple data storage.
+Line 5: Always handle file errors to avoid runtime issues.
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
+jgdhkjggisa
+ugdfiiashfdihsdgiufwe
+iudshcuisahfidcz
+jhdfuwa
+dvadda
+dfasfasdf
+fasdfasfasd
