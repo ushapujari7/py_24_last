@@ -1,0 +1,5 @@
+Line 1: Welcome to the world of Python programming.
+Line 2: Text files are a simple and powerful way to store data.
+Line 3: Each line can hold different types of information.
+Line 4: File handling is an essential skill for developers.
+Line 5: Practice working with files to master this concept.
