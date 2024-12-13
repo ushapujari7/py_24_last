@@ -1,0 +1,17 @@
+{
+    "name": "Bob",
+    "last_name": null,
+    "age": 28,
+    "isEmployed": true,
+    "skills": [
+        "Python",
+        "Django",
+        "Machine Learning"
+    ],
+    "address": {
+        "street": "456 Elm St",
+        "city": "Metropolis",
+        "state": "NY",
+        "zip": "10118"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "isEmployed": true,
+  "skills": ["Python", "JavaScript", "SQL"],
+  "address": {
+    "street": "123 Main St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701"
+  },
+  "projects": [
+    {
+      "name": "Website Redesign",
+      "status": "completed",
+      "budget": 5000
+    },
+    {
+      "name": "Mobile App Development",
+      "status": "in progress",
+      "budget": 15000
+    }
+  ]
+}
