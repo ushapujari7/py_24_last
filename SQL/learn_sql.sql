@@ -1,6 +1,13 @@
---DDL:
---Create, drop, alter, Truncate, comment(/*-*/), rename
+-- DDL:
+-- Create, drop, alter, Truncate, comment(/*-*/), rename
 --    Constrains: PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, CHECK, DEFAULT
+
+-- DQL:
+-- select
+
+
+-- DML:
+-- Insert, Update, Delete
 
 
 CREATE TABLE departments (
