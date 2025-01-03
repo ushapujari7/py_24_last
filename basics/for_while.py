@@ -54,6 +54,7 @@ jj = for_loop()
 print('jj value:- ', jj)
 
 
+di = {1:1, 2:2, 3:3}
 
 
 

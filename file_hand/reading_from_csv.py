@@ -1,4 +1,6 @@
 import csv
+from imghdr import tests
+from os.path import devnull
 
 f_o = open("first_csv_rows.csv")
 csv_r = csv.reader(f_o, delimiter=",")

@@ -94,10 +94,28 @@ l3 = [4, 6, 0]
 z1 = zip(li, l2, l3)
 print(list(z1))
 
+t = (i for i in range(10))
+tt = [t]
 
+# print(next(t))
+# print(next(t))
+# print(next(t))
+# print(next(t))
+# print(next(t))
+print(88888)
+for i in t:
+ print("grn", i)
+print(8888)
+for i in t:
+ print("agen", i)
 
-
-
+print(88888)
+l = [i for i in range(10)]
+for i in l:
+ print("hgchs", i)
+print(88888)
+for i in l:
+ print("0000", i)
 
 
 

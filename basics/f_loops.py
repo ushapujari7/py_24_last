@@ -64,5 +64,3 @@ for k in ll:
         print('its five ')
     else:
         print('it is not two, three, four or five')
-
-
