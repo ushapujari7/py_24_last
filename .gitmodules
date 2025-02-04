@@ -1,0 +1,9 @@
+[submodule "py_24_last_ushapujari"]
+	path = py_24_last_ushapujari
+	url = https://github.com/ushapujari7/py_24_last_ushapujari.git
+[submodule "django_usha"]
+	path = django_usha
+	url = https://github.com/ushapujari7/django_usha.git
+[submodule "py_24_last"]
+	path = py_24_last
+	url = https://github.com/ushapujari7/py_24_last.git
